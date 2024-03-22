@@ -1,4 +1,4 @@
-package com.jacekun
+package com.jaceku
 
 import com.lagradost.cloudstream3.MainAPI
 import com.lagradost.cloudstream3.TvType
